@@ -33,6 +33,7 @@ Copilot Agent, standart Copilot özelliklerine kıyasla çok daha fazla hesaplam
 Standart Copilot: ~$0.002 per request
 Copilot Agent: ~$0.050-$0.200 per task (25-100x daha pahalı)
 ```
+*Not: Yukarıdaki rakamlar yaklaşık değerlerdir ve gösterim amaçlıdır. Gerçek maliyetler değişiklik gösterebilir.*
 
 ### 2. **Gelişmiş Altyapı Gereksinimleri** 🏗️
 
@@ -103,18 +104,20 @@ GitHub'ın ürün stratejisinde farklı kullanıcı seviyelerine hizmet sunma ya
 
 ### Ücretli Planlar
 
-**GitHub Copilot Individual** ($10/ay)
+> **Not:** Fiyatlar değişiklik gösterebilir. Güncel fiyatlandırma için [GitHub Copilot resmi sayfasını](https://github.com/features/copilot#pricing) kontrol edin.
+
+**GitHub Copilot Individual** (~$10/ay)
 - Bireysel geliştiriciler için
 - Tüm Copilot özellikleri
 - Agent özellikleri dahil
 
-**GitHub Copilot Business** ($19/kullanıcı/ay)
+**GitHub Copilot Business** (~$19/kullanıcı/ay)
 - Ekipler için
 - Gelişmiş yönetim araçları
 - Politika kontrolleri
 - Kurumsal destek
 
-**GitHub Copilot Enterprise** ($39/kullanıcı/ay)
+**GitHub Copilot Enterprise** (~$39/kullanıcı/ay)
 - Büyük organizasyonlar için
 - Özel model eğitimi
 - Öncelikli destek
@@ -149,7 +152,9 @@ GitHub'ın ürün stratejisinde farklı kullanıcı seviyelerine hizmet sunma ya
 - Günde ~2-3 saat zaman tasarrufu
 - Karmaşık refactoring otomasyonu
 - Büyük projelerde verimlilik artışı
-- **Potansiyel Kazanç**: Ayda 20+ saat tasarruf = $400-600 değer (saat başı $20-30 varsayımı)
+- **Potansiyel Kazanç**: Ayda 20+ saat tasarruf
+
+*Not: Zaman tasarrufu ve değer hesaplamaları yaklaşıktır ve bireysel kullanım durumlarına göre değişiklik gösterebilir.*
 
 ---
 
@@ -191,6 +196,7 @@ Bu belge, ChatGPT Prompt Mühendisliği kursunun bir parçası olarak hazırlanm
 
 ---
 
-**Son Güncelleme:** 2025-12-20  
 **Yazar:** GitHub Copilot Eğitim Ekibi  
-**Lisans:** MIT
+**Lisans:** MIT  
+
+*Not: Bu belgedeki fiyatlandırma ve özellik bilgileri zaman içinde değişebilir. En güncel bilgi için resmi GitHub kaynaklarını kontrol edin.*
